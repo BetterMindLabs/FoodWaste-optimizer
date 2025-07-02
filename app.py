@@ -28,9 +28,9 @@ if action in ["Donate to NGO", "Both"]:
     st.subheader("🤝 Local NGOs for food donation")
     st.write("""
 - **Robin Hood Army**: [Visit](https://robinhoodarmy.com)
-- **Feeding India by Zomato**: [Visit](https://www.feedingindia.org)
-- **Annakshetra Foundation** (Jaipur-based, operates in many cities): [Visit](https://www.annakshetra.org)
-- **Local food banks or community kitchens** (search nearby)
+- **Feeding America**: [Visit](https://www.feedingamerica.org/)
+- **Food Rescue**: [Visit](https://foodrescue.us/)
+- **World Food Program USA** (https://www.wfpusa.org/)
 """)
 
 st.markdown("---")
