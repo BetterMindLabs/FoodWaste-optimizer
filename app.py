@@ -30,7 +30,7 @@ if action in ["Donate to NGO", "Both"]:
 - **Robin Hood Army**: [Visit](https://robinhoodarmy.com)
 - **Feeding America**: [Visit](https://www.feedingamerica.org/)
 - **Food Rescue**: [Visit](https://foodrescue.us/)
-- **World Food Program USA** (https://www.wfpusa.org/)
+- **World Food Program USA**: [Visit](https://www.wfpusa.org/)
 """)
 
 st.markdown("---")
